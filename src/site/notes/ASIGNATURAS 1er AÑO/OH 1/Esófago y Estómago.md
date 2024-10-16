@@ -1,0 +1,30 @@
+---
+{"dg-publish":true,"permalink":"/ASIGNATURAS 1er AÑO/OH 1/Esófago y Estómago/"}
+---
+
+#Anatomía #Integral_3_OH #OH 
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/asignaturas-1er-ano/oh-1/esofago/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+# Esófago
+#Integral_3_OH #Anatomía #OH 
+## Descripción
+El esófago es un conducto que comunica la faringe con el estómago. ==Tiene una porción cervial, una porción torácica y luego es esófago (?)==, hay una porción que es diafragmática (cuando el esófago atraviesa el hiato esofágico) que puede generar patologías sígnificativas, el resto del esófago se denomina esófago abdominal. 
+La constitución del esófago es constante durante todo su recorrido. Tiene una capa de mucosa, una capa muscular lisa, una capa fibrosa (una adventicia) y por último una capa serosa en la porción abdominal (el [[ASIGNATURAS 1er AÑO/OH 1/Peritoneo\|Peritoneo]]).
+### Unión esofago-gástrica
+la unión esófago-gástrica tiene ciertas características para impedir que los jugos gástricos dañen otras estructuras.
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+
+</div></div>
