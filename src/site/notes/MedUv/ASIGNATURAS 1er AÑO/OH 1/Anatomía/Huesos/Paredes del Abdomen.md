@@ -11,6 +11,7 @@ La región abdominal está dividida en 9 sectores, éstos son:
 | ------------------- | ---------------- | --------------------- |
 | Flanco Derecho      | Región umbilical | Flanco Izquierdo      |
 | Fosa Iliaca derecha | Hipogastrio      | Fosa iliaca izquierda |
+
 Para crear las divisiones se trazan 4 líneas: 2 verticales en las líneas medioclaviculares y 2 horizontales, la primera a la altura de la parte más baja del reborde costal y la segunda en la parte más alta de la de la cresta iliaca.
 
 ### Composición anatómica
