@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-uv/general/inicio/"}
+{"dg-publish":true,"permalink":"/med-uv/general/inicio/","tags":["gardenEntry"]}
 ---
 
 # PRIMER AÑO MEDICINA
