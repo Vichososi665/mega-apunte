@@ -3,6 +3,7 @@
 ---
 
 #Anatomía #Integral_3_OH #OH 
+Índice: [[MedUv/ASIGNATURAS 1er AÑO/OH 1/MED104-Organismo Humano\|MED104-Organismo Humano]]
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/med-uv/asignaturas-1er-ano/oh-1/anatomia/organos/esofago/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -21,7 +22,7 @@ la unión esófago-gástrica tiene ciertas características para impedir que los
 - La presión abdominal, que suele ser más alta que la presión atmosférica, aprieta el esófago y lo cierra
 - La lazada muscular: Son fibras oblicuas del estómago que aprietan la unión esófago gástrica
 ## Relaciones
-- Anterior: [[Hígado\|Hígado]]
+- Anterior: [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Órganos/Hígado\|Hígado]]
 - Posterior: [[Aorta\|Aorta]], a través del hiato diafragmático
 ## Irrigación arterial
 - Arterias esofágicas torácicas
@@ -33,7 +34,7 @@ El retorno venoso es similar al recorrido arterial:
 Se dirigen a la [[Vena ácigos\|Vena ácigos]] las:
 - Venas esofágicas
 - Venas frénicas
-Se dirigen a la [[Vena Porta\|Vena Porta]] las:
+Se dirigen a la [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Órganos/Vena Porta\|Vena Porta]] las:
 - Vena gástrica izquerda
 - Vena esplénica
 
@@ -48,6 +49,8 @@ Hay dos tipos de linfonodos en el esófago:
 > [!info] ¿Cardial?
 > Recuerda que cardial significa que tiene que ver con el **Cardias** del estómago y no con el corazón :)
 
+--- 
+Índice: [[Indice Órganos\|Indice Órganos]]
 
 </div></div>
 
@@ -80,7 +83,7 @@ La capa múscular tiene tres capas.
 - Una Circular
 	- (En esta está el esfínter pilórico)
 - Una Oblicua
-	- (En esta está la lazada múscular)
+	- (En esta está la lazada muscular)
 ###### Serosa
 La capa serosa del estómago tiene dos capas y dos curvaturas.
 **Hojas:**
@@ -96,14 +99,14 @@ La capa serosa del estómago tiene dos capas y dos curvaturas.
 ## Relaciones
 ###### Anteriores:
 - Hígado
-- Diafrágma
+- Diafragma
 - Pared abdominal
 ###### Posteriores
 - Páncreas, a través de la [[Transcavidad de los epiplones\|Transcavidad de los epiplones]]
-- Rinón izquierdo
+- Riñón izquierdo
 - Glándula Suprarenal Izquierda
 ###### Curvatura Mayor
-- Diafrágma
+- Diafragma
 - Bazo
 - Colon transverso
 ###### Curvatura Menor
@@ -159,6 +162,9 @@ Los japoneses están locos y clasificaron los línfonodos de esta zona en 16 gru
 	- Sensitiva
 	- Motora del esfínter pilórico
 
+---
+Índice: [[Indice Órganos\|Indice Órganos]]
+
 </div></div>
 
 
@@ -170,9 +176,9 @@ Los japoneses están locos y clasificaron los línfonodos de esta zona en 16 gru
 #Anatomía #Integral_3_OH #OH 
 # Descripción
 El bazo es un órgano linfático secundario, encargado de la formación de linfocitos. Está ubicado a la izquierda de la región supramesocólica y se proyecta al hipocondrio izquierdo.
-Es un organo muy friable (frágil) e irrigado.
+Es un órgano muy friable (frágil) e irrigado.
 Se forma junto con el digestivo y comparte irrigación con ellos pero no realiza función digestiva.
-Es un órgano ovoide y pesa 200 gramos. Sigue es eje de la 10a costilla izquierda, se ubica entre la 9a y 11a costillas y entre las líneas axílares anterior y posterior.
+Es un órgano ovoide y pesa 200 gramos. Sigue es eje de la 10a costilla izquierda, se ubica entre la 9a y 11a costillas y entre las líneas axilares anterior y posterior.
 Su borde inferior es palpable pero solamente en personas muy delgadas, pero es percutible.
 Presenta dos caras, dos bordes y dos polos o extremidades:
 - Cara diafragmática: es convexa y más o menos lisa
@@ -180,7 +186,7 @@ Presenta dos caras, dos bordes y dos polos o extremidades:
 	- Hilio esplénico
 	- Tiene impresiones alrededor del hilio:
 		- Gástrica (en anterior y superior)
-		- Renal (porsterior)
+		- Renal (posterior)
 		- Cólica (inferior)
 
 - Borde superior: es festoneado
@@ -189,7 +195,7 @@ Presenta dos caras, dos bordes y dos polos o extremidades:
 - Polo posterior
 - Polo anterior
 ### Constitución anatómica
-El bazo tiene una consistencia esponjosa, tiene áreas de "pulpa blanca" (acúmulos de células linfáticas) y áreas de "pulpa roja" (vasos sanguíeneos) que están cubiertos por una capsula fibrosa que emite pequeños tabiques hacia el interior. Despúes tiene el peritoneo visceral.
+El bazo tiene una consistencia esponjosa, tiene áreas de "pulpa blanca" (acúmulos de células linfáticas) y áreas de "pulpa roja" (vasos sanguíneos) que están cubiertos por una capsula fibrosa que emite pequeños tabiques hacia el interior. Después tiene el peritoneo visceral.
 ### Relación con el peritoneo
 El bazo es un órgano **Completamente peritonizado**, tiene dependencias a partir del hilio.
 **Epiplones (Omentos)**
@@ -201,8 +207,8 @@ El bazo es un órgano **Completamente peritonizado**, tiene dependencias a parti
 [[Transcavidad de los epiplones\|Transcavidad de los epiplones]]
 ### Funciones
 El bazo realiza varias funciones pero es reemplazable en todas ellas.
-- Proliferación de linifocitos
-- Respuesta inmne hormonal
+- Proliferación de linfocitos
+- Respuesta inmune hormonal
 - Hematopoyesis prenatal
 - Extraer y destruir eritrocitos y plaquetas envejecidas
 - Reciclar hierro y globina
@@ -218,8 +224,8 @@ El bazo es irrigado solamente por la [[arteria esplenica\|arteria esplenica]] (r
 - Vasos cortos
 Y da ramas terminales: 5 a 6 ramas esplénicas
 ## Retorno Venoso
-Es homonimo.
-Forma la [[Vea esplénica\|Vea esplénica]], recibe afluentes homonimos y luego se une a la [[vena mesentérica inferior\|vena mesentérica inferior]] para formar la [[Vena Porta\|Vena Porta]].
+Es homónimo.
+Forma la [[Vena esplénica\|Vena esplénica]], recibe afluentes homónimos y luego se une a la [[vena mesentérica inferior\|vena mesentérica inferior]] para formar la [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Órganos/Vena Porta\|Vena Porta]].
 ## Drenaje linfático
 - Linfonodos dele hilio esplénico
 - Linfonodos del tronco celiaco

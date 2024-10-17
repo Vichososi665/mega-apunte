@@ -25,7 +25,7 @@ La capa múscular tiene tres capas.
 - Una Circular
 	- (En esta está el esfínter pilórico)
 - Una Oblicua
-	- (En esta está la lazada múscular)
+	- (En esta está la lazada muscular)
 ###### Serosa
 La capa serosa del estómago tiene dos capas y dos curvaturas.
 **Hojas:**
@@ -41,14 +41,14 @@ La capa serosa del estómago tiene dos capas y dos curvaturas.
 ## Relaciones
 ###### Anteriores:
 - Hígado
-- Diafrágma
+- Diafragma
 - Pared abdominal
 ###### Posteriores
 - Páncreas, a través de la [[Transcavidad de los epiplones\|Transcavidad de los epiplones]]
-- Rinón izquierdo
+- Riñón izquierdo
 - Glándula Suprarenal Izquierda
 ###### Curvatura Mayor
-- Diafrágma
+- Diafragma
 - Bazo
 - Colon transverso
 ###### Curvatura Menor
@@ -103,3 +103,6 @@ Los japoneses están locos y clasificaron los línfonodos de esta zona en 16 gru
 - T6 a T9 (nervio esplácnico mayor)
 	- Sensitiva
 	- Motora del esfínter pilórico
+
+---
+Índice: [[Indice Órganos\|Indice Órganos]]

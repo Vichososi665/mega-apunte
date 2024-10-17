@@ -14,7 +14,7 @@ la unión esófago-gástrica tiene ciertas características para impedir que los
 - La presión abdominal, que suele ser más alta que la presión atmosférica, aprieta el esófago y lo cierra
 - La lazada muscular: Son fibras oblicuas del estómago que aprietan la unión esófago gástrica
 ## Relaciones
-- Anterior: [[Hígado\|Hígado]]
+- Anterior: [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Órganos/Hígado\|Hígado]]
 - Posterior: [[Aorta\|Aorta]], a través del hiato diafragmático
 ## Irrigación arterial
 - Arterias esofágicas torácicas
@@ -26,7 +26,7 @@ El retorno venoso es similar al recorrido arterial:
 Se dirigen a la [[Vena ácigos\|Vena ácigos]] las:
 - Venas esofágicas
 - Venas frénicas
-Se dirigen a la [[Vena Porta\|Vena Porta]] las:
+Se dirigen a la [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Órganos/Vena Porta\|Vena Porta]] las:
 - Vena gástrica izquerda
 - Vena esplénica
 
@@ -40,3 +40,6 @@ Hay dos tipos de linfonodos en el esófago:
 
 > [!info] ¿Cardial?
 > Recuerda que cardial significa que tiene que ver con el **Cardias** del estómago y no con el corazón :)
+
+--- 
+Índice: [[Indice Órganos\|Indice Órganos]]

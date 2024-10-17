@@ -11,7 +11,7 @@ Está envuelto por la [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Músculos/vain
 ## Funciones
 Flectar hacia delante
 ## Irrigación
-Comparte irrigación común con el resto de los [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Huesos/Paredes del Abdomen\|Paredes del Abdomen]]. Ésta está dada por las últimas 6 arterias intercostales, las [[Arteria Epigástrica superior\|epigástricas superior]] e [[Arteria Epigástrica Inferior\|inferior]] por arriba y por abajo por las arterias circunflejas iliacas (ramas de la [[Arteria Femoral\|Arteria Femoral]]) superficial y profunda y por la [[Pudenda Externa\|Pudenda Externa]] superficial
+Comparte irrigación común con el resto de los [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Paredes del Abdomen\|Paredes del Abdomen]]. Ésta está dada por las últimas 6 arterias intercostales, las [[Arteria Epigástrica superior\|epigástricas superior]] e [[Arteria Epigástrica Inferior\|inferior]] por arriba y por abajo por las arterias circunflejas iliacas (ramas de la [[Arteria Femoral\|Arteria Femoral]]) superficial y profunda y por la [[Pudenda Externa\|Pudenda Externa]] superficial
 ### Retorno Venoso
 Es homónimo :)
 ## Inervación

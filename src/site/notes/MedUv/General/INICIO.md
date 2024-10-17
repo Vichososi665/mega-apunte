@@ -9,4 +9,3 @@
 [[MedUv/ASIGNATURAS 1er AÑO/SS 1/MED103-Salud y Sociedad\|MED103-Salud y Sociedad]]
 [[MedUv/ASIGNATURAS 1er AÑO/OH 1/MED104-Organismo Humano\|MED104-Organismo Humano]]
 [[MedUv/ASIGNATURAS 1er AÑO/EFC/MED105-Estructura y Función Celular\|MED105-Estructura y Función Celular]]
-## Calificaciones

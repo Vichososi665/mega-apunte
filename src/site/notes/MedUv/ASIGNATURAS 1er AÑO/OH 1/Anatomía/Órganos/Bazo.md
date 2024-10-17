@@ -5,9 +5,9 @@
 #Anatomía #Integral_3_OH #OH 
 # Descripción
 El bazo es un órgano linfático secundario, encargado de la formación de linfocitos. Está ubicado a la izquierda de la región supramesocólica y se proyecta al hipocondrio izquierdo.
-Es un organo muy friable (frágil) e irrigado.
+Es un órgano muy friable (frágil) e irrigado.
 Se forma junto con el digestivo y comparte irrigación con ellos pero no realiza función digestiva.
-Es un órgano ovoide y pesa 200 gramos. Sigue es eje de la 10a costilla izquierda, se ubica entre la 9a y 11a costillas y entre las líneas axílares anterior y posterior.
+Es un órgano ovoide y pesa 200 gramos. Sigue es eje de la 10a costilla izquierda, se ubica entre la 9a y 11a costillas y entre las líneas axilares anterior y posterior.
 Su borde inferior es palpable pero solamente en personas muy delgadas, pero es percutible.
 Presenta dos caras, dos bordes y dos polos o extremidades:
 - Cara diafragmática: es convexa y más o menos lisa
@@ -15,7 +15,7 @@ Presenta dos caras, dos bordes y dos polos o extremidades:
 	- Hilio esplénico
 	- Tiene impresiones alrededor del hilio:
 		- Gástrica (en anterior y superior)
-		- Renal (porsterior)
+		- Renal (posterior)
 		- Cólica (inferior)
 
 - Borde superior: es festoneado
@@ -24,7 +24,7 @@ Presenta dos caras, dos bordes y dos polos o extremidades:
 - Polo posterior
 - Polo anterior
 ### Constitución anatómica
-El bazo tiene una consistencia esponjosa, tiene áreas de "pulpa blanca" (acúmulos de células linfáticas) y áreas de "pulpa roja" (vasos sanguíeneos) que están cubiertos por una capsula fibrosa que emite pequeños tabiques hacia el interior. Despúes tiene el peritoneo visceral.
+El bazo tiene una consistencia esponjosa, tiene áreas de "pulpa blanca" (acúmulos de células linfáticas) y áreas de "pulpa roja" (vasos sanguíneos) que están cubiertos por una capsula fibrosa que emite pequeños tabiques hacia el interior. Después tiene el peritoneo visceral.
 ### Relación con el peritoneo
 El bazo es un órgano **Completamente peritonizado**, tiene dependencias a partir del hilio.
 **Epiplones (Omentos)**
@@ -36,8 +36,8 @@ El bazo es un órgano **Completamente peritonizado**, tiene dependencias a parti
 [[Transcavidad de los epiplones\|Transcavidad de los epiplones]]
 ### Funciones
 El bazo realiza varias funciones pero es reemplazable en todas ellas.
-- Proliferación de linifocitos
-- Respuesta inmne hormonal
+- Proliferación de linfocitos
+- Respuesta inmune hormonal
 - Hematopoyesis prenatal
 - Extraer y destruir eritrocitos y plaquetas envejecidas
 - Reciclar hierro y globina
@@ -53,8 +53,8 @@ El bazo es irrigado solamente por la [[arteria esplenica\|arteria esplenica]] (r
 - Vasos cortos
 Y da ramas terminales: 5 a 6 ramas esplénicas
 ## Retorno Venoso
-Es homonimo.
-Forma la [[Vea esplénica\|Vea esplénica]], recibe afluentes homonimos y luego se une a la [[vena mesentérica inferior\|vena mesentérica inferior]] para formar la [[Vena Porta\|Vena Porta]].
+Es homónimo.
+Forma la [[Vena esplénica\|Vena esplénica]], recibe afluentes homónimos y luego se une a la [[vena mesentérica inferior\|vena mesentérica inferior]] para formar la [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Órganos/Vena Porta\|Vena Porta]].
 ## Drenaje linfático
 - Linfonodos dele hilio esplénico
 - Linfonodos del tronco celiaco

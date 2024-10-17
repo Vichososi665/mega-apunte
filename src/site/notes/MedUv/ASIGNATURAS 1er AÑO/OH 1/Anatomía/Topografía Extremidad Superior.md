@@ -88,14 +88,14 @@ nos centraremos en hombro, axila y brazo.
 		- A: Rotador medial
 		- In: Nervio subescapular superior e inferior
 	- Manguito rotador: Compuesto por los Mm con "(mr)", formado por varios tendones y refuerza. Sufre al hacer fuerza con los brazos.
-- Músculos que van por anterior y que unen torax con estremidad superior:
+- Músculos que van por anterior y que unen tórax con extremidad superior:
 	- Pectoral Mayor
 		- O: Cara anterior clavícula y esternón, 6 primeros cartílagos costales
-		- I: Labio lateral surco intertubercolar húmero
+		- I: Labio lateral surco intertubercular húmero
 		- A: Aproximador y rotador medial / Inspirador accesorio
 		- In: Nervio pectoral lateral y medial (Ramas plexo braquial)
-	- Pectoral menor: en profundidad del mayor, el mśa profundo de la pared anterior
-		- O: Extremo anterior y cartĺago de las costillas 3 a 5
+	- Pectoral menor: en profundidad del mayor, el más profundo de la pared anterior
+		- O: Extremo anterior y cartílago de las costillas 3 a 5
 		- I: Proceso coracoides
 		- A: Estabilizador de escápula, inspirador accesorio
 		- In: Nervio pectoral medial (Rama colateral fascículos plexo braquial)

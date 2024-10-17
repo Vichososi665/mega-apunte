@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/med-uv/asignaturas-1er-ano/oh-1/anatomia/peritoneo/"}
+{"dg-publish":true,"permalink":"/med-uv/asignaturas-1er-ano/oh-1/anatomia/peritoneo-sync-conflict-20241017-195118-wqrbetx/"}
 ---
 
 # Peritoneo
@@ -31,7 +31,7 @@ Es en realidad una sola cavidad pero se dividen por una línea imaginaria que va
 Es el espacio que queda entre ambas hojas del peritoneo. Se subdivide en dos sacos: un **saco mayor** y un **saco menor** (bolsa omental). 
 Es dividida en dos regiones por el mesocolon transverso: la región supramesocólica (por sobre el mesocolon transverso) y una región inframesocólica. Ambas regiones también se subdividen.
 ###### Espacio subfrénico / subhepático
-Es el espacio contenido entre la cara inferior del diafragma y la cara diafragmática del hígado. El ligamento falsiforme lo divide en dos espacios: uno derecho y uno izquierdo.
+Es el espacio contenido entre la cara inferior del diafrágma y la cara diafragmática del hígado. El ligamento falsiforme lo divide en dos espacios: uno derecho y uno izquierdo.
 ###### Receso subhepático
 Contiene el receso hepatorrenal (o saco de Morrison), que está ubicado entre la cara inferior del [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Órganos/Hígado\|Hígado]] y el polo superior del [[Riñónes\|riñón derecho]]. Es la zona de mayor declive en un paciente en posición decúbito supino.
 El receso subhépatico está ubicado entre la cara inferior del [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Órganos/Hígado\|Hígado]] y el [[Colon\|Colon transverso]].

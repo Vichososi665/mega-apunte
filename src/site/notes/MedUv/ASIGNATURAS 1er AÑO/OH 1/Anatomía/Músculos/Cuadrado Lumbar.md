@@ -12,3 +12,6 @@ Es un músculo cuadrilatero, tiene 3 inserciones:
 Flexión lateral, mantener la postura.
 ### Inervación
 Su inervación es dada por el [[Plexo Lumbar\|Plexo Lumbar]] y el [[nervio subcostal\|nervio subcostal]].
+
+---
+Índice: [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Músculos/Indice Músculos\|Indice Músculos]]

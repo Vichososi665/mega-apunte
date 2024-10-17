@@ -11,6 +11,7 @@
 ## Parcial 3.2
 (...)
 [[MedUv/ASIGNATURAS 1er AÑO/EFC/Genética Neo-Medeliana\|Genética Neo-Medeliana]]
+[[MedUv/ASIGNATURAS 1er AÑO/EFC/Citogenética, Genética Molécular, Mutaciones y Epigenética\|Citogenética, Genética Molécular, Mutaciones y Epigenética]]
 
 ## Parcial 4.1
 ## Parcial 4.2
