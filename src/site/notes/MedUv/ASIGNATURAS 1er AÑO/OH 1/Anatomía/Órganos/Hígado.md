@@ -54,8 +54,16 @@ El peritoneo cubre casi toda la totalidad del órgano, dejando un área desnuda 
 El ligamento falciforme lo conecta con el [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Paredes del Abdomen#Otros\|ombligo]].
 #### Hilios del hígado
 ##### Puerta hepática principal (surco transverso):
-
+###### INGRESAN
+- [[Arteria Hepática\|Arteria Hepática]] con sus ramas
+- Bifurcación de la [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Vasos/Vena Porta\|Vena Porta]]
+- Nervios, principalmente el [[X par\|Tronco Vagal Anterior]] (Exclusivamente parasimpático)
+###### SALEN
+- Conductos hepáticos derecho e izquierdo como un conducto hepático común
+- Vasos linfáticos
 ##### Puerta hepática secundaria o accesoria (borde posterior):
+###### SALEN
+- Venas hepáticas que confluyen a la VCI
 
 ## Inervación
 La inervación del hígado tiene origen en el Tronco Vagal Anterior (Viene del [[X par\|X par izquierdo]]) y en el plexo solar. 
@@ -66,8 +74,7 @@ Estos van a formar 2 plexos:
 	- Distribución en relación a la [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Vasos/Vena Porta\|Vena Porta]].
 	- Nervio posterior del colédoco
 	- Nervio exterior de la vesícula
-
-- Ra
+Ramos Hepáticos: ramos directos del tronco vagal anterior.
 ## Irrigación
 **Irrigación Funcional**
 [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Vasos/Vena Porta\|Vena Porta]], es el 80% de la irrigación, pero es menos oxigenada y va a menos presión que la nutricia.
