@@ -34,7 +34,7 @@ El retorno venoso es similar al recorrido arterial:
 Se dirigen a la [[Vena ácigos\|Vena ácigos]] las:
 - Venas esofágicas
 - Venas frénicas
-Se dirigen a la [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Órganos/Vena Porta\|Vena Porta]] las:
+Se dirigen a la [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Vasos/Vena Porta\|Vena Porta]] las:
 - Vena gástrica izquerda
 - Vena esplénica
 
@@ -225,7 +225,7 @@ El bazo es irrigado solamente por la [[arteria esplenica\|arteria esplenica]] (r
 Y da ramas terminales: 5 a 6 ramas esplénicas
 ## Retorno Venoso
 Es homónimo.
-Forma la [[Vena esplénica\|Vena esplénica]], recibe afluentes homónimos y luego se une a la [[vena mesentérica inferior\|vena mesentérica inferior]] para formar la [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Órganos/Vena Porta\|Vena Porta]].
+Forma la [[Vena esplénica\|Vena esplénica]], recibe afluentes homónimos y luego se une a la [[vena mesentérica inferior\|vena mesentérica inferior]] para formar la [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Vasos/Vena Porta\|Vena Porta]].
 ## Drenaje linfático
 - Linfonodos dele hilio esplénico
 - Linfonodos del tronco celiaco
