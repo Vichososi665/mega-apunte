@@ -4,7 +4,7 @@
 
 # Peritoneo
 #Anatomía #OH #Integral_3_OH
-Índice: [[MedUv/ASIGNATURAS 1er AÑO/OH 1/MED104-Organismo Humano\|MED104-Organismo Humano]]
+Índice: [[MedUv/ASIGNATURAS 1er AÑO/OH 1/MED104-Organismo Humano I\|MED104-Organismo Humano I]]
 ## Descripción
 El peritoneo es una capa serosa, es asimétrico y su distribución es compleja. Los órganos pueden ser cubiertos de forma parcial o total por el peritoneo. El **único** órgano que es intraperitoneal son los ovarios.
 Su superficie mide 2mˆ2 y es semipermeable.
@@ -13,13 +13,13 @@ Lo podemos dividir en **Peritoneo parietal** y **Peritoneo visceral**.
 Tapiza la totalidad de la cara inferior del diafragma
 #### Peritoneo Parietal Anterior
 Tiene comportamiento diferente sobre el ombligo, en el ombligo y bajo el ombligo.
-Sobre el ombligo: Tapiza la cara posterior de los músculos de la [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Paredes del Abdomen\|Pared abdominal]]. Hacia medial tapiza la línea alba, en esa zona se inserta el ligamento falsiforme del [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Órganos/Hígado\|Hígado]].
-En el ombligo: Forma una especie de puente por detrás del anillo fibroso, permitiendo ver por transparencia los vasos umbilicalesy el uraco.
-Bajo el ombligo: Se observan pliegues según su relación con estructuras de la zona.
+**Sobre el ombligo**: Tapiza la cara posterior de los músculos de la [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Paredes del Abdomen\|Pared abdominal]]. Hacia medial tapiza la línea alba, en esa zona se inserta el ligamento falsiforme del [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Órganos/Hígado\|Hígado]].
+**En el ombligo**: Forma una especie de puente por detrás del anillo fibroso, permitiendo ver por transparencia los vasos umbilicalesy el uraco.
+**Bajo el ombligo**: Se observan pliegues según su relación con estructuras de la zona.
 #### Peritoneo Parietal Inferior
 Su posición está en relación con los [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Órganos/Índice de órganos#Órganos del abdomen\|órganos del abdomen]]. Se generan dos recesos en el Hombre: el **receso prevesical** (por delante de la vejiga) y el **receso rectovesical**/**fondo de saco de Douglas** (Entre el recto y la vejiga), ésts último es la zona de mayor declive en la **Posición bípeda**. En la Mujer se generan tres recesos: el **receso prevesical**, el **receso vesicouterino** y el **receso rectouterino** (Douglas).
 #### Peritoneo Parietal Posterior
-Tiene relación con varias estructuras y órganos. Detrás del peritoneo hay una zona denominada retroperitoneo y bajo eso está el subperitoneo.
+Tiene relación con varias estructuras y órganos. Detrás del peritoneo hay una zona denominada [[MedUv/ASIGNATURAS 1er AÑO/OH 1/Anatomía/Retroperitoneo\|Retroperitoneo]] y bajo eso está el subperitoneo.
 #### Repliegues peritoneales
 - **Mesos**: Tienen dos capas, unen un órgano con la pared, contienen vasos y nervios.
 - **Omentos** / Epiplones: Tienen dos capas, unen el estómago a un órgano, porta vasos y nervios. Hay 3: el **Omento menor**, el **Omento mayor** y el gastroesplénico

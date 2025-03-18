@@ -4,7 +4,7 @@
 
 # Topografía Extremidad Superior
 #Integral_5_OH #OH #Anatomía
-## Apuntes en Bruto:
+# Apuntes en Bruto:
 Topografía es hablar de regiones
 En la región del hombro hay 3 regiones:
 - Region axilar
@@ -210,3 +210,30 @@ Espacios axilares:
 REGION DELTOIDEA
 Límites: Bordes del deltoides
 La inerva el nervio axilar
+
+## Inervación extremidad superior
+
+NERVIOS ESPINALES
+
+PLEXO BRAQUIAL
+- Origen en los Nervios raquídeos
+- Organizado en troncos
+- Divisiones
+- Fascículos
+
+```mermaid
+graph TD
+C4(C4) --> Superior
+C5 --> Superior
+C6 --> Superior
+C7 --> Medio
+C8 --> Inferior
+T1 --> Inferior
+T2(T2) --> Inferior
+Superior --> Lateral
+Superior --> Posterior
+Medio --> Lateral
+Medio --> Posterior
+Inferior --> Posterior
+Inferior --> Medial
+```

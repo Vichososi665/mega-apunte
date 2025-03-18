@@ -4,7 +4,7 @@
 
 # Paredes del Abdomen
 #Integral_3_OH #Anatomía #OH
-Índice: [[MedUv/ASIGNATURAS 1er AÑO/OH 1/MED104-Organismo Humano\|MED104-Organismo Humano]]
+Índice: [[MedUv/ASIGNATURAS 1er AÑO/OH 1/MED104-Organismo Humano I\|MED104-Organismo Humano I]]
 ### Anatomía superficial
 La región abdominal está dividida en 9 sectores, éstos son:
 
